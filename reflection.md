@@ -1,13 +1,4 @@
 # AI Use Reflection
-
-## How I used AI
-
-I used generative AI as a support tool during the development of this labour policy proposal. It helped me brainstorm possible policy directions, clarify the structure of the brief, and improve the clarity of selected sentences. I also used it to generate questions that helped me compare policy alternatives using criteria such as efficiency, equity, feasibility, and potential labour-market impacts.
-
-## What I did independently
-
-I selected the policy topic, decided the final recommendation, located and assessed the evidence used in the proposal, and wrote the final argument in my own words. I checked factual claims against credible sources and revised AI-generated suggestions where they were too broad, inaccurate, or unsuitable for the Australian labour-market context.
-
-## Limitations and responsible use
-
-AI outputs can be incomplete, biased, or factually incorrect. For that reason, I did not treat AI responses as academic sources and did not cite them as evidence. I used only verified academic, government, and reputable institutional sources in the final proposal. AI was used to support my learning and drafting process rather than replace my own analysis and judgement.
+I used Perplexity AI to support the planning, structure and editing of this policy brief. I used it to help clarify the policy-brief requirements, develop a logical section structure, generate early examples of policy options and shorten sections to meet the word limit. I also used it to identify relevant source types, including Bhutan National Statistics Bureau labour-force data, Bhutan’s National AI Strategy and International Labour Organization research. AI did not replace my responsibility for research or policy judgement. I selected the topic, client, policy context, final options and recommendation, and I reviewed the cited reports before relying on their claims. 
+One specific change was made after AI identified that the sentence about clerical occupations had accidentally been formatted as a Markdown heading using `##`. I accepted the wording but removed the heading symbols and added the citation `(International Labour Organization 2025b)`. I also edited the draft to avoid suggesting that finance was a named priority sector in Bhutan’s National AI Strategy. Instead, I presented finance as a proposed pilot sector, while citing tourism and public-service delivery as strategy priorities. 
+A key limitation was that AI-generated text initially repeated ideas and included broad claims without sufficient citations. This created a risk of weak evidence and inaccurate policy interpretation. I addressed this by shortening repeated content, checking factual claims against original sources and using only the verified reports in the final reference list.
