@@ -10,8 +10,8 @@ The proposal recommends an AI-Augmented Youth Pathways Package that combines AI 
 
 ## Repository navigation
 
-- [Policy proposal](proposal.md) contains the 1,200-word policy brief, including the policy problem, labour-market analysis, policy options, recommendation, implementation plan and references.
-- [AI Use Reflection](reflection.md) contains a 200-word reflection explaining how AI was used in the development of this assignment.
+- [Policy proposal](proposal.md) contains the 1,183-word policy brief, including the policy problem, labour-market analysis, policy options, recommendation, implementation plan and references.
+- [AI Use Reflection](reflection.md) contains a 232-word reflection explaining how AI was used in the development of this assignment.
 
 ## Repository structure
 
